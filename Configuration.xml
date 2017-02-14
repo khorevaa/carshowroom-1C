@@ -119,6 +119,8 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>ПодсистемыБиблиотек</Subsystem>
+			<CommonModule>БазоваяПодсистемаКлиент</CommonModule>
+			<CommonModule>БазоваяПодсистемаСервер</CommonModule>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
