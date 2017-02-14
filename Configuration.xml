@@ -118,6 +118,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>ПодсистемыБиблиотек</Subsystem>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
