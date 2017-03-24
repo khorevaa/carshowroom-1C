@@ -18,7 +18,7 @@
 		</Properties>
 		<ChildObjects>
 			<Subsystem>БазоваяПодсистема</Subsystem>
-			<Subsystem>ВерсияИБ</Subsystem>
+			<Subsystem>ОбновлениеИБ</Subsystem>
 			<Subsystem>Пользователи</Subsystem>
 		</ChildObjects>
 	</Subsystem>

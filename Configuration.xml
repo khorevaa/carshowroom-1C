@@ -43,7 +43,10 @@
 				<v8:Value xsi:type="app:ApplicationUsePurpose">PersonalComputer</v8:Value>
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
-			<DefaultRoles/>
+			<DefaultRoles>
+				<xr:Item xsi:type="xr:MDObjectRef">Role.ПолныеПрава</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Role.АдминистраторСистемы</xr:Item>
+			</DefaultRoles>
 			<Vendor/>
 			<Version>1.0.0.1</Version>
 			<UpdateCatalogAddress/>
@@ -124,8 +127,62 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>СтандартныеПодсистемы</Subsystem>
+			<CommonPicture>Вопрос</CommonPicture>
+			<CommonPicture>Ошибка</CommonPicture>
+			<CommonPicture>Подсистема</CommonPicture>
+			<CommonPicture>Предупреждение</CommonPicture>
+			<CommonPicture>Успешно</CommonPicture>
+			<SessionParameter>АвторизованныйПользователь</SessionParameter>
+			<SessionParameter>ВерсияРасширений</SessionParameter>
+			<SessionParameter>ПараметрыКлиентаНаСервере</SessionParameter>
+			<SessionParameter>ПараметрыОбработчикаОбновления</SessionParameter>
+			<SessionParameter>ПодключенныеРасширения</SessionParameter>
+			<SessionParameter>ТекущийВнешнийПользователь</SessionParameter>
+			<SessionParameter>ТекущийПользователь</SessionParameter>
+			<SessionParameter>УстановленныеРасширения</SessionParameter>
+			<Role>АдминистраторСистемы</Role>
+			<Role>БазовыеПрава</Role>
+			<Role>БазовыеПраваВнешнегоПользователя</Role>
+			<Role>ПолныеПрава</Role>
+			<CommonModule>БазоваяПодсистемаВызовСервера</CommonModule>
 			<CommonModule>БазоваяПодсистемаКлиент</CommonModule>
+			<CommonModule>БазоваяПодсистемаКлиентГлобальный</CommonModule>
+			<CommonModule>БазоваяПодсистемаКлиентПовтИсп</CommonModule>
+			<CommonModule>БазоваяПодсистемаКлиентСервер</CommonModule>
 			<CommonModule>БазоваяПодсистемаСервер</CommonModule>
+			<CommonModule>БазоваяПодсистемаСерверПовтИсп</CommonModule>
+			<CommonModule>ИнтеграцияПодсистемКлиент</CommonModule>
+			<CommonModule>ИнтеграцияПодсистемСервер</CommonModule>
+			<CommonModule>ОбновлениеИБКлиент</CommonModule>
+			<CommonModule>ОбновлениеИБСервер</CommonModule>
+			<CommonModule>ОбновлениеИБСерверПовтИсп</CommonModule>
+			<CommonModule>ПользователиКлиент</CommonModule>
+			<CommonModule>ПользователиКлиентСервер</CommonModule>
+			<CommonModule>ПользователиСервер</CommonModule>
+			<CommonModule>ПользователиСерверПовтИсп</CommonModule>
+			<ExchangePlan>ОбновлениеИнформационнойБазы</ExchangePlan>
+			<ScheduledJob>КонтрольАктивностиПользователей</ScheduledJob>
+			<ScheduledJob>УдалениеУстаревшихПараметровРаботыВерсийРасширений</ScheduledJob>
+			<FunctionalOption>ИспользоватьВнешнихПользователей</FunctionalOption>
+			<Constant>ГлавныйУзел</Constant>
+			<Constant>ЗаголовокСистемы</Constant>
+			<Constant>ИспользоватьВнешнихПользователей</Constant>
+			<Constant>ПараметрыАдминистрированияИБ</Constant>
+			<Constant>СведенияОбОбновленииИБ</Constant>
+			<CommonForm>Вопрос</CommonForm>
+			<CommonForm>ПустойРабочийСтол</CommonForm>
+			<Catalog>ВерсииРасширений</Catalog>
+			<Catalog>ВнешниеПользователи</Catalog>
+			<Catalog>ГруппыВнешнихПользователей</Catalog>
+			<Catalog>ГруппыПользователей</Catalog>
+			<Catalog>ИдентификаторыОбъектовМетаданных</Catalog>
+			<Catalog>Пользователи</Catalog>
+			<InformationRegister>БезопасноеХранилищеДанных</InformationRegister>
+			<InformationRegister>ВерсииПодсистем</InformationRegister>
+			<InformationRegister>ПараметрыРаботыПрограммы</InformationRegister>
+			<InformationRegister>СведенияОПользователях</InformationRegister>
+			<InformationRegister>СеансыВерсийРасширений</InformationRegister>
+			<InformationRegister>СоставыГруппПользователей</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

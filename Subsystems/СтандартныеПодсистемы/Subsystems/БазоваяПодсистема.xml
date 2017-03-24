@@ -17,6 +17,37 @@
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.БазоваяПодсистемаКлиент</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.БазоваяПодсистемаСервер</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.БазоваяПодсистемаКлиентСервер</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.БазоваяПодсистемаКлиентГлобальный</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.БазоваяПодсистемаВызовСервера</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.БазоваяПодсистемаКлиентПовтИсп</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">SessionParameter.ПараметрыКлиентаНаСервере</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.БазоваяПодсистемаСерверПовтИсп</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.ПустойРабочийСтол</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.ГлавныйУзел</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.Ошибка</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ИдентификаторыОбъектовМетаданных</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.БезопасноеХранилищеДанных</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.ПараметрыАдминистрированияИБ</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ПараметрыРаботыПрограммы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.Подсистема</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.Успешно</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">ScheduledJob.УдалениеУстаревшихПараметровРаботыВерсийРасширений</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ВерсииРасширений</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">SessionParameter.ВерсияРасширений</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.СеансыВерсийРасширений</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.ЗаголовокСистемы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">SessionParameter.ПодключенныеРасширения</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">SessionParameter.УстановленныеРасширения</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.Предупреждение</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.Вопрос</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.Вопрос</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ИнтеграцияПодсистемКлиент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ИнтеграцияПодсистемСервер</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Role.АдминистраторСистемы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Role.БазовыеПрава</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Role.БазовыеПраваВнешнегоПользователя</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Role.ПолныеПрава</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
