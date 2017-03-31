@@ -60,6 +60,9 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.ЗнакСтоп</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ЖурналРегистрации</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.ДлительнаяОперация</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.Информация</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonCommand.ПредупрежденияПриЗавершенииРаботы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.ПредупрежденияПриЗавершенииРаботы</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
