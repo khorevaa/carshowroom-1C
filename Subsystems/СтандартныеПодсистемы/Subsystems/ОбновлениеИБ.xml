@@ -22,6 +22,16 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ВерсииПодсистем</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.СведенияОбОбновленииИБ</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбновлениеИБКлиент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбновлениеИБКлиентГлобальный</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.РезультатыОбновленияПрограммы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.ОтложенноеОбновлениеВГлавномУзлеЗавершеноУспешно</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.ДетализироватьОбновлениеИБВЖурналеРегистрации</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.СведенияОБлокируемыхОбъектах</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">FunctionalOption.ОтложенноеОбновлениеВГлавномУзлеЗавершеноУспешно</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.ОтложенноеОбновлениеЗавершеноУспешно</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">FunctionalOption.ОтложенноеОбновлениеЗавершеноУспешно</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">ScheduledJob.ОтложенноеОбновлениеИБ</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ПрогрессОтложенногоОбновления</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

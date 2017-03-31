@@ -48,6 +48,18 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.БазовыеПрава</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Role.БазовыеПраваВнешнегоПользователя</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Role.ПолныеПрава</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Role.ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">StyleItem.ФонУправляющегоПоля</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.ДлительнаяОперация</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">StyleItem.ПоясняющийТекст</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.РаботаВЛокальномРежиме</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.РаботаВАвтономномРежиме</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.ВосклицательныйЗнакСерый</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.ВосклицательныйЗнакКрасный</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ПодсистемыКонфигурацииСервер</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.ЗнакСтоп</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ЖурналРегистрации</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.ДлительнаяОперация</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

@@ -31,6 +31,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ГруппыПользователей</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ГруппыВнешнихПользователей</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.СоставыГруппПользователей</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.ВходВПрограммуЗапрещен</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.ПредупреждениеБезопасности</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

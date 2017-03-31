@@ -46,6 +46,7 @@
 			<DefaultRoles>
 				<xr:Item xsi:type="xr:MDObjectRef">Role.ПолныеПрава</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Role.АдминистраторСистемы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Role.ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок</xr:Item>
 			</DefaultRoles>
 			<Vendor/>
 			<Version>1.0.0.1</Version>
@@ -127,7 +128,13 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>СтандартныеПодсистемы</Subsystem>
+			<StyleItem>ПоясняющийТекст</StyleItem>
+			<StyleItem>ФонУправляющегоПоля</StyleItem>
 			<CommonPicture>Вопрос</CommonPicture>
+			<CommonPicture>ВосклицательныйЗнакКрасный</CommonPicture>
+			<CommonPicture>ВосклицательныйЗнакСерый</CommonPicture>
+			<CommonPicture>ДлительнаяОперация</CommonPicture>
+			<CommonPicture>ЗнакСтоп</CommonPicture>
 			<CommonPicture>Ошибка</CommonPicture>
 			<CommonPicture>Подсистема</CommonPicture>
 			<CommonPicture>Предупреждение</CommonPicture>
@@ -143,6 +150,7 @@
 			<Role>АдминистраторСистемы</Role>
 			<Role>БазовыеПрава</Role>
 			<Role>БазовыеПраваВнешнегоПользователя</Role>
+			<Role>ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок</Role>
 			<Role>ПолныеПрава</Role>
 			<CommonModule>БазоваяПодсистемаВызовСервера</CommonModule>
 			<CommonModule>БазоваяПодсистемаКлиент</CommonModule>
@@ -154,22 +162,36 @@
 			<CommonModule>ИнтеграцияПодсистемКлиент</CommonModule>
 			<CommonModule>ИнтеграцияПодсистемСервер</CommonModule>
 			<CommonModule>ОбновлениеИБКлиент</CommonModule>
+			<CommonModule>ОбновлениеИБКлиентГлобальный</CommonModule>
 			<CommonModule>ОбновлениеИБСервер</CommonModule>
 			<CommonModule>ОбновлениеИБСерверПовтИсп</CommonModule>
+			<CommonModule>ПодсистемыКонфигурацииСервер</CommonModule>
 			<CommonModule>ПользователиКлиент</CommonModule>
 			<CommonModule>ПользователиКлиентСервер</CommonModule>
 			<CommonModule>ПользователиСервер</CommonModule>
 			<CommonModule>ПользователиСерверПовтИсп</CommonModule>
 			<ExchangePlan>ОбновлениеИнформационнойБазы</ExchangePlan>
 			<ScheduledJob>КонтрольАктивностиПользователей</ScheduledJob>
+			<ScheduledJob>ОтложенноеОбновлениеИБ</ScheduledJob>
 			<ScheduledJob>УдалениеУстаревшихПараметровРаботыВерсийРасширений</ScheduledJob>
 			<FunctionalOption>ИспользоватьВнешнихПользователей</FunctionalOption>
+			<FunctionalOption>ОтложенноеОбновлениеВГлавномУзлеЗавершеноУспешно</FunctionalOption>
+			<FunctionalOption>ОтложенноеОбновлениеЗавершеноУспешно</FunctionalOption>
 			<Constant>ГлавныйУзел</Constant>
+			<Constant>ДетализироватьОбновлениеИБВЖурналеРегистрации</Constant>
 			<Constant>ЗаголовокСистемы</Constant>
 			<Constant>ИспользоватьВнешнихПользователей</Constant>
+			<Constant>ОтложенноеОбновлениеВГлавномУзлеЗавершеноУспешно</Constant>
+			<Constant>ОтложенноеОбновлениеЗавершеноУспешно</Constant>
 			<Constant>ПараметрыАдминистрированияИБ</Constant>
+			<Constant>СведенияОБлокируемыхОбъектах</Constant>
 			<Constant>СведенияОбОбновленииИБ</Constant>
+			<Constant>РаботаВЛокальномРежиме</Constant>
+			<Constant>РаботаВАвтономномРежиме</Constant>
 			<CommonForm>Вопрос</CommonForm>
+			<CommonForm>ВходВПрограммуЗапрещен</CommonForm>
+			<CommonForm>ДлительнаяОперация</CommonForm>
+			<CommonForm>ПредупреждениеБезопасности</CommonForm>
 			<CommonForm>ПустойРабочийСтол</CommonForm>
 			<Catalog>ВерсииРасширений</Catalog>
 			<Catalog>ВнешниеПользователи</Catalog>
@@ -177,6 +199,9 @@
 			<Catalog>ГруппыПользователей</Catalog>
 			<Catalog>ИдентификаторыОбъектовМетаданных</Catalog>
 			<Catalog>Пользователи</Catalog>
+			<Report>ПрогрессОтложенногоОбновления</Report>
+			<DataProcessor>ЖурналРегистрации</DataProcessor>
+			<DataProcessor>РезультатыОбновленияПрограммы</DataProcessor>
 			<InformationRegister>БезопасноеХранилищеДанных</InformationRegister>
 			<InformationRegister>ВерсииПодсистем</InformationRegister>
 			<InformationRegister>ПараметрыРаботыПрограммы</InformationRegister>
