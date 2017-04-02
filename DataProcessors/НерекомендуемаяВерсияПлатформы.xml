@@ -1,36 +1,37 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
-	<DataProcessor uuid="2b7a0ab5-3800-4626-874e-e94bcd01809b">
+	<DataProcessor uuid="8e853f30-456c-4eeb-97cd-e60672f13693">
 		<InternalInfo>
-			<xr:GeneratedType name="DataProcessorObject.РезультатыОбновленияПрограммы" category="Object">
-				<xr:TypeId>70ff3126-1786-4fd6-86c0-0f73d67e74a9</xr:TypeId>
-				<xr:ValueId>0216dda3-81eb-44c9-96e5-2de09a218719</xr:ValueId>
+			<xr:GeneratedType name="DataProcessorObject.НерекомендуемаяВерсияПлатформы" category="Object">
+				<xr:TypeId>264b71bf-644c-405c-a300-9f462ffd27e8</xr:TypeId>
+				<xr:ValueId>0b35eb9b-1c3b-4dcb-9051-bd1fd9d5e14d</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DataProcessorManager.РезультатыОбновленияПрограммы" category="Manager">
-				<xr:TypeId>51b67373-7dae-4ec7-ad37-b8ea3b3ec0f0</xr:TypeId>
-				<xr:ValueId>30881a43-0adb-4dbe-bd0e-2270c0ec349e</xr:ValueId>
+			<xr:GeneratedType name="DataProcessorManager.НерекомендуемаяВерсияПлатформы" category="Manager">
+				<xr:TypeId>a3d9f124-36ca-4f55-9e30-2237db49baee</xr:TypeId>
+				<xr:ValueId>7aaebf24-c062-4bc1-90a2-130f6458963b</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>РезультатыОбновленияПрограммы</Name>
+			<Name>НерекомендуемаяВерсияПлатформы</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Результаты обновления программы</v8:content>
+					<v8:content>Нерекомендуемая версия платформы</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
 			<UseStandardCommands>false</UseStandardCommands>
-			<DefaultForm>DataProcessor.РезультатыОбновленияПрограммы.Form.ИндикацияХодаОтложенногоОбновленияИБ</DefaultForm>
+			<DefaultForm>DataProcessor.НерекомендуемаяВерсияПлатформы.Form.ПорядокОбновленияПлатформы</DefaultForm>
 			<AuxiliaryForm/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<ExtendedPresentation/>
 			<Explanation/>
 		</Properties>
 		<ChildObjects>
-			<Form>ИндикацияХодаОтложенногоОбновленияИБ</Form>
-			<Form>ОтложенноеОбновлениеНеЗавершено</Form>
-			<Form>ОтложенныеОбработчики</Form>
+			<Form>НерекомендуемаяВерсияПлатформы</Form>
+			<Form>ПорядокОбновленияПлатформы</Form>
+			<Template>ПорядокОбновленияДляКлиентСервернойБазы</Template>
+			<Template>ПорядокОбновленияДляФайловойБазы</Template>
 		</ChildObjects>
 	</DataProcessor>
 </MetaDataObject>

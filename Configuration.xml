@@ -204,6 +204,7 @@
 			<Catalog>Пользователи</Catalog>
 			<Report>ПрогрессОтложенногоОбновления</Report>
 			<DataProcessor>ЖурналРегистрации</DataProcessor>
+			<DataProcessor>НерекомендуемаяВерсияПлатформы</DataProcessor>
 			<DataProcessor>РезультатыОбновленияПрограммы</DataProcessor>
 			<InformationRegister>БезопасноеХранилищеДанных</InformationRegister>
 			<InformationRegister>ВерсииПодсистем</InformationRegister>
