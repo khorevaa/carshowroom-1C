@@ -64,6 +64,11 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonCommand.ПредупрежденияПриЗавершенииРаботы</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.ПредупрежденияПриЗавершенииРаботы</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.НерекомендуемаяВерсияПлатформы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">StyleItem.ПоясняющийОшибкуТекст</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ИдентификаторыОбъектовВерсийРасширений</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ПараметрыРаботыВерсийРасширений</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ИдентификаторыОбъектовРасширений</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.ВосстановлениеСвязиСГлавнымУзлом</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

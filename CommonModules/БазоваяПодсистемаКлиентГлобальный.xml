@@ -10,7 +10,7 @@
 				</v8:item>
 			</Synonym>
 			<Comment/>
-			<Global>false</Global>
+			<Global>true</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>
 			<Server>false</Server>
 			<ExternalConnection>false</ExternalConnection>

@@ -128,6 +128,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>СтандартныеПодсистемы</Subsystem>
+			<StyleItem>ПоясняющийОшибкуТекст</StyleItem>
 			<StyleItem>ПоясняющийТекст</StyleItem>
 			<StyleItem>ФонУправляющегоПоля</StyleItem>
 			<CommonPicture>Вопрос</CommonPicture>
@@ -162,6 +163,7 @@
 			<CommonModule>БазоваяПодсистемаСерверПовтИсп</CommonModule>
 			<CommonModule>ИнтеграцияПодсистемКлиент</CommonModule>
 			<CommonModule>ИнтеграцияПодсистемСервер</CommonModule>
+			<CommonModule>ОбновлениеИБВызовСервера</CommonModule>
 			<CommonModule>ОбновлениеИБКлиент</CommonModule>
 			<CommonModule>ОбновлениеИБКлиентГлобальный</CommonModule>
 			<CommonModule>ОбновлениеИБСервер</CommonModule>
@@ -191,16 +193,20 @@
 			<Constant>РаботаВЛокальномРежиме</Constant>
 			<Constant>РаботаВАвтономномРежиме</Constant>
 			<CommonForm>Вопрос</CommonForm>
+			<CommonForm>ВосстановлениеСвязиСГлавнымУзлом</CommonForm>
 			<CommonForm>ВходВПрограммуЗапрещен</CommonForm>
 			<CommonForm>ДлительнаяОперация</CommonForm>
+			<CommonForm>НовыйПароль</CommonForm>
 			<CommonForm>ПредупреждениеБезопасности</CommonForm>
 			<CommonForm>ПредупрежденияПриЗавершенииРаботы</CommonForm>
 			<CommonForm>ПустойРабочийСтол</CommonForm>
+			<CommonForm>СменаПароля</CommonForm>
 			<Catalog>ВерсииРасширений</Catalog>
 			<Catalog>ВнешниеПользователи</Catalog>
 			<Catalog>ГруппыВнешнихПользователей</Catalog>
 			<Catalog>ГруппыПользователей</Catalog>
 			<Catalog>ИдентификаторыОбъектовМетаданных</Catalog>
+			<Catalog>ИдентификаторыОбъектовРасширений</Catalog>
 			<Catalog>Пользователи</Catalog>
 			<Report>ПрогрессОтложенногоОбновления</Report>
 			<DataProcessor>ЖурналРегистрации</DataProcessor>
@@ -208,6 +214,8 @@
 			<DataProcessor>РезультатыОбновленияПрограммы</DataProcessor>
 			<InformationRegister>БезопасноеХранилищеДанных</InformationRegister>
 			<InformationRegister>ВерсииПодсистем</InformationRegister>
+			<InformationRegister>ИдентификаторыОбъектовВерсийРасширений</InformationRegister>
+			<InformationRegister>ПараметрыРаботыВерсийРасширений</InformationRegister>
 			<InformationRegister>ПараметрыРаботыПрограммы</InformationRegister>
 			<InformationRegister>СведенияОПользователях</InformationRegister>
 			<InformationRegister>СеансыВерсийРасширений</InformationRegister>

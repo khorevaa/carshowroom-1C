@@ -33,6 +33,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.СоставыГруппПользователей</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.ВходВПрограммуЗапрещен</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.ПредупреждениеБезопасности</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.СменаПароля</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.НовыйПароль</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

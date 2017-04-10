@@ -28,9 +28,12 @@
 			<Explanation/>
 		</Properties>
 		<ChildObjects>
+			<Form>ИндикацияХодаОбновленияИБ</Form>
 			<Form>ИндикацияХодаОтложенногоОбновленияИБ</Form>
 			<Form>ОтложенноеОбновлениеНеЗавершено</Form>
 			<Form>ОтложенныеОбработчики</Form>
+			<Form>ПредупреждениеБезопасности</Form>
+			<Form>СообщениеОНеудачномОбновлении</Form>
 		</ChildObjects>
 	</DataProcessor>
 </MetaDataObject>
