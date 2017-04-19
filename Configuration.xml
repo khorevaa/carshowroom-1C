@@ -154,6 +154,7 @@
 			<Role>БазовыеПраваВнешнегоПользователя</Role>
 			<Role>ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок</Role>
 			<Role>ПолныеПрава</Role>
+			<CommonTemplate>ОписаниеИзмененийСистемы</CommonTemplate>
 			<CommonTemplate>ПолучениеДереваОбработчиковОбновления</CommonTemplate>
 			<CommonModule>БазоваяПодсистемаВызовСервера</CommonModule>
 			<CommonModule>БазоваяПодсистемаКлиент</CommonModule>
@@ -201,6 +202,7 @@
 			<CommonForm>ВходВПрограммуЗапрещен</CommonForm>
 			<CommonForm>ДлительнаяОперация</CommonForm>
 			<CommonForm>НовыйПароль</CommonForm>
+			<CommonForm>ОписаниеИзмененийСистемы</CommonForm>
 			<CommonForm>ПредупреждениеБезопасности</CommonForm>
 			<CommonForm>ПредупрежденияПриЗавершенииРаботы</CommonForm>
 			<CommonForm>ПустойРабочийСтол</CommonForm>
