@@ -69,6 +69,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ПараметрыРаботыВерсийРасширений</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ИдентификаторыОбъектовРасширений</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.ВосстановлениеСвязиСГлавнымУзлом</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Enum.ТипыДанныхКэшаПрограммныхИнтерфейсов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.КэшПрограммныхИнтерфейсов</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

@@ -33,6 +33,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">ScheduledJob.ОтложенноеОбновлениеИБ</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ПрогрессОтложенногоОбновления</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбновлениеИБВызовСервера</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonTemplate.ПолучениеДереваОбработчиковОбновления</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

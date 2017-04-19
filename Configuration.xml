@@ -154,6 +154,7 @@
 			<Role>БазовыеПраваВнешнегоПользователя</Role>
 			<Role>ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок</Role>
 			<Role>ПолныеПрава</Role>
+			<CommonTemplate>ПолучениеДереваОбработчиковОбновления</CommonTemplate>
 			<CommonModule>БазоваяПодсистемаВызовСервера</CommonModule>
 			<CommonModule>БазоваяПодсистемаКлиент</CommonModule>
 			<CommonModule>БазоваяПодсистемаКлиентГлобальный</CommonModule>
@@ -178,6 +179,7 @@
 			<ScheduledJob>ОтложенноеОбновлениеИБ</ScheduledJob>
 			<ScheduledJob>УдалениеУстаревшихПараметровРаботыВерсийРасширений</ScheduledJob>
 			<FunctionalOption>ИспользоватьВнешнихПользователей</FunctionalOption>
+			<FunctionalOption>ИспользоватьГруппыПользователей</FunctionalOption>
 			<FunctionalOption>ОтложенноеОбновлениеВГлавномУзлеЗавершеноУспешно</FunctionalOption>
 			<FunctionalOption>ОтложенноеОбновлениеЗавершеноУспешно</FunctionalOption>
 			<CommonCommand>ПредупрежденияПриЗавершенииРаботы</CommonCommand>
@@ -185,13 +187,15 @@
 			<Constant>ДетализироватьОбновлениеИБВЖурналеРегистрации</Constant>
 			<Constant>ЗаголовокСистемы</Constant>
 			<Constant>ИспользоватьВнешнихПользователей</Constant>
+			<Constant>ИспользоватьГруппыПользователей</Constant>
+			<Constant>НастройкиВходаПользователей</Constant>
 			<Constant>ОтложенноеОбновлениеВГлавномУзлеЗавершеноУспешно</Constant>
 			<Constant>ОтложенноеОбновлениеЗавершеноУспешно</Constant>
 			<Constant>ПараметрыАдминистрированияИБ</Constant>
+			<Constant>РаботаВАвтономномРежиме</Constant>
+			<Constant>РаботаВЛокальномРежиме</Constant>
 			<Constant>СведенияОБлокируемыхОбъектах</Constant>
 			<Constant>СведенияОбОбновленииИБ</Constant>
-			<Constant>РаботаВЛокальномРежиме</Constant>
-			<Constant>РаботаВАвтономномРежиме</Constant>
 			<CommonForm>Вопрос</CommonForm>
 			<CommonForm>ВосстановлениеСвязиСГлавнымУзлом</CommonForm>
 			<CommonForm>ВходВПрограммуЗапрещен</CommonForm>
@@ -208,6 +212,7 @@
 			<Catalog>ИдентификаторыОбъектовМетаданных</Catalog>
 			<Catalog>ИдентификаторыОбъектовРасширений</Catalog>
 			<Catalog>Пользователи</Catalog>
+			<Enum>ТипыДанныхКэшаПрограммныхИнтерфейсов</Enum>
 			<Report>ПрогрессОтложенногоОбновления</Report>
 			<DataProcessor>ЖурналРегистрации</DataProcessor>
 			<DataProcessor>НерекомендуемаяВерсияПлатформы</DataProcessor>
@@ -215,6 +220,7 @@
 			<InformationRegister>БезопасноеХранилищеДанных</InformationRegister>
 			<InformationRegister>ВерсииПодсистем</InformationRegister>
 			<InformationRegister>ИдентификаторыОбъектовВерсийРасширений</InformationRegister>
+			<InformationRegister>КэшПрограммныхИнтерфейсов</InformationRegister>
 			<InformationRegister>ПараметрыРаботыВерсийРасширений</InformationRegister>
 			<InformationRegister>ПараметрыРаботыПрограммы</InformationRegister>
 			<InformationRegister>СведенияОПользователях</InformationRegister>

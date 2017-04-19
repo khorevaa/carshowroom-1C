@@ -85,13 +85,13 @@
 			</SearchControlAddition>
 			<ChildItems>
 				<LabelField name="ВерсияРасширений" id="24">
-					<DataPath>~Список.ВерсияРасширений</DataPath>
+					<DataPath>Список.ВерсияРасширений</DataPath>
 					<Width>14</Width>
 					<ContextMenu name="ВерсияРасширенийКонтекстноеМеню" id="25"/>
 					<ExtendedTooltip name="ВерсияРасширенийРасширеннаяПодсказка" id="26"/>
 				</LabelField>
 				<LabelField name="ИмяРасширения" id="33">
-					<DataPath>~Список.ИмяРасширения</DataPath>
+					<DataPath>Список.ИмяРасширения</DataPath>
 					<Title>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -103,21 +103,21 @@
 					<ExtendedTooltip name="ИмяРасширенияРасширеннаяПодсказка" id="35"/>
 				</LabelField>
 				<LabelField name="ПолноеИмяОбъекта" id="16">
-					<DataPath>~Список.ПолноеИмяОбъекта</DataPath>
+					<DataPath>Список.ПолноеИмяОбъекта</DataPath>
 					<DefaultItem>true</DefaultItem>
 					<Width>20</Width>
 					<ContextMenu name="ПолноеИмяОбъектаКонтекстноеМеню" id="17"/>
 					<ExtendedTooltip name="ПолноеИмяОбъектаРасширеннаяПодсказка" id="18"/>
 				</LabelField>
 				<LabelField name="Идентификатор" id="19">
-					<DataPath>~Список.Идентификатор</DataPath>
+					<DataPath>Список.Идентификатор</DataPath>
 					<DefaultItem>true</DefaultItem>
 					<Width>20</Width>
 					<ContextMenu name="ИдентификаторКонтекстноеМеню" id="20"/>
 					<ExtendedTooltip name="ИдентификаторРасширеннаяПодсказка" id="21"/>
 				</LabelField>
 				<LabelField name="ОписаниеРасширенийВерсии" id="30">
-					<DataPath>~Список.ОписаниеРасширенийВерсии</DataPath>
+					<DataPath>Список.ОписаниеРасширенийВерсии</DataPath>
 					<UserVisible>
 						<xr:Common>false</xr:Common>
 					</UserVisible>
