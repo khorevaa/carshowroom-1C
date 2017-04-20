@@ -130,6 +130,7 @@
 			<Subsystem>СтандартныеПодсистемы</Subsystem>
 			<StyleItem>ПоясняющийОшибкуТекст</StyleItem>
 			<StyleItem>ПоясняющийТекст</StyleItem>
+			<StyleItem>ТекстЗапрещеннойЯчейкиЦвет</StyleItem>
 			<StyleItem>ФонУправляющегоПоля</StyleItem>
 			<CommonPicture>Вопрос</CommonPicture>
 			<CommonPicture>ВосклицательныйЗнакКрасный</CommonPicture>

@@ -72,6 +72,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Enum.ТипыДанныхКэшаПрограммныхИнтерфейсов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.КэшПрограммныхИнтерфейсов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.ЗавершитьРаботу</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">StyleItem.ТекстЗапрещеннойЯчейкиЦвет</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
