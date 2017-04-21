@@ -301,10 +301,10 @@
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
 			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
-			<DefaultObjectForm/>
+			<DefaultObjectForm>Catalog.ГруппыВнешнихПользователей.Form.ФормаЭлемента</DefaultObjectForm>
 			<DefaultFolderForm/>
-			<DefaultListForm/>
-			<DefaultChoiceForm/>
+			<DefaultListForm>Catalog.ГруппыВнешнихПользователей.Form.ФормаСписка</DefaultListForm>
+			<DefaultChoiceForm>Catalog.ГруппыВнешнихПользователей.Form.ФормаСписка</DefaultChoiceForm>
 			<DefaultFolderChoiceForm/>
 			<AuxiliaryObjectForm/>
 			<AuxiliaryFolderForm/>
@@ -721,6 +721,8 @@
 					</Attribute>
 				</ChildObjects>
 			</TabularSection>
+			<Form>ФормаСписка</Form>
+			<Form>ФормаЭлемента</Form>
 			<Command uuid="54a9760d-63d2-4fb7-bf9a-e2f1b4a2cd40">
 				<Properties>
 					<Name>ГруппыВнешнегоПользователя</Name>

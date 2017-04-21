@@ -202,6 +202,7 @@
 			<CommonForm>Вопрос</CommonForm>
 			<CommonForm>ВосстановлениеСвязиСГлавнымУзлом</CommonForm>
 			<CommonForm>ВходВПрограммуЗапрещен</CommonForm>
+			<CommonForm>ВыборТиповПользователей</CommonForm>
 			<CommonForm>ГруппыПользователей</CommonForm>
 			<CommonForm>ДлительнаяОперация</CommonForm>
 			<CommonForm>НовыйПароль</CommonForm>
