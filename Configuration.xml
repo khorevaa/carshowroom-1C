@@ -205,6 +205,7 @@
 			<CommonForm>ВыборТиповПользователей</CommonForm>
 			<CommonForm>ГруппыПользователей</CommonForm>
 			<CommonForm>ДлительнаяОперация</CommonForm>
+			<CommonForm>НастройкиВходаПользователей</CommonForm>
 			<CommonForm>НовыйПароль</CommonForm>
 			<CommonForm>ОписаниеИзмененийСистемы</CommonForm>
 			<CommonForm>ПредупреждениеБезопасности</CommonForm>
@@ -220,6 +221,7 @@
 			<Catalog>Пользователи</Catalog>
 			<Enum>ТипыДанныхКэшаПрограммныхИнтерфейсов</Enum>
 			<Report>ПрогрессОтложенногоОбновления</Report>
+			<Report>СведенияОПользователях</Report>
 			<DataProcessor>ЖурналРегистрации</DataProcessor>
 			<DataProcessor>НерекомендуемаяВерсияПлатформы</DataProcessor>
 			<DataProcessor>РезультатыОбновленияПрограммы</DataProcessor>
