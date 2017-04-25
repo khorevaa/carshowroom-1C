@@ -142,6 +142,7 @@
 			<CommonPicture>Ошибка</CommonPicture>
 			<CommonPicture>Подсистема</CommonPicture>
 			<CommonPicture>Предупреждение</CommonPicture>
+			<CommonPicture>СостояниеПользователя08</CommonPicture>
 			<CommonPicture>Успешно</CommonPicture>
 			<SessionParameter>АвторизованныйПользователь</SessionParameter>
 			<SessionParameter>ВерсияРасширений</SessionParameter>
