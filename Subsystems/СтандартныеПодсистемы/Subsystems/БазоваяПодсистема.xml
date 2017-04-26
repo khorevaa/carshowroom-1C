@@ -78,6 +78,10 @@
 				<xr:Item xsi:type="xr:MDObjectRef">EventSubscription.ВыполнитьДействияПослеПолученияДанныхУзлаВРаспределеннойИнформационнойБазе</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">EventSubscription.ЗапретитьПометкуУдаленияПредопределенныхЭлементов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">EventSubscription.ЗапретитьУдалениеПредопределенныхЭлементов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">EventSubscription.ПриОтправкеДанныхГлавному</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">EventSubscription.ПриОтправкеДанныхПодчиненному</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">EventSubscription.ПриПолученииДанныхОтГлавного</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">EventSubscription.ПриПолученииДанныхОтПодчиненного</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

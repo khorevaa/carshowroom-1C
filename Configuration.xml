@@ -185,6 +185,10 @@
 			<EventSubscription>ВыполнитьДействияПослеПолученияДанныхУзлаВРаспределеннойИнформационнойБазе</EventSubscription>
 			<EventSubscription>ЗапретитьПометкуУдаленияПредопределенныхЭлементов</EventSubscription>
 			<EventSubscription>ЗапретитьУдалениеПредопределенныхЭлементов</EventSubscription>
+			<EventSubscription>ПриОтправкеДанныхГлавному</EventSubscription>
+			<EventSubscription>ПриОтправкеДанныхПодчиненному</EventSubscription>
+			<EventSubscription>ПриПолученииДанныхОтГлавного</EventSubscription>
+			<EventSubscription>ПриПолученииДанныхОтПодчиненного</EventSubscription>
 			<ScheduledJob>КонтрольАктивностиПользователей</ScheduledJob>
 			<ScheduledJob>ОтложенноеОбновлениеИБ</ScheduledJob>
 			<ScheduledJob>УдалениеУстаревшихПараметровРаботыВерсийРасширений</ScheduledJob>
@@ -234,6 +238,7 @@
 			<DataProcessor>РезультатыОбновленияПрограммы</DataProcessor>
 			<InformationRegister>БезопасноеХранилищеДанных</InformationRegister>
 			<InformationRegister>ВерсииПодсистем</InformationRegister>
+			<InformationRegister>ДанныеОбработанныеВЦентральномУзлеРИБ</InformationRegister>
 			<InformationRegister>ИдентификаторыОбъектовВерсийРасширений</InformationRegister>
 			<InformationRegister>КэшПрограммныхИнтерфейсов</InformationRegister>
 			<InformationRegister>ПараметрыРаботыВерсийРасширений</InformationRegister>
