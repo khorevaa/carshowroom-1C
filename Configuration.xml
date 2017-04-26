@@ -127,6 +127,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Администрирование</Subsystem>
 			<Subsystem>СтандартныеПодсистемы</Subsystem>
 			<StyleItem>ПоясняющийОшибкуТекст</StyleItem>
 			<StyleItem>ПоясняющийТекст</StyleItem>
@@ -142,6 +143,7 @@
 			<CommonPicture>Ошибка</CommonPicture>
 			<CommonPicture>Подсистема</CommonPicture>
 			<CommonPicture>Предупреждение</CommonPicture>
+			<CommonPicture>РазделАдминистрирование</CommonPicture>
 			<CommonPicture>СостояниеПользователя08</CommonPicture>
 			<CommonPicture>Успешно</CommonPicture>
 			<SessionParameter>АвторизованныйПользователь</SessionParameter>
