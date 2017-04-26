@@ -196,6 +196,7 @@
 			<FunctionalOption>ИспользоватьГруппыПользователей</FunctionalOption>
 			<FunctionalOption>ОтложенноеОбновлениеВГлавномУзлеЗавершеноУспешно</FunctionalOption>
 			<FunctionalOption>ОтложенноеОбновлениеЗавершеноУспешно</FunctionalOption>
+			<DefinedType>ВнешнийПользователь</DefinedType>
 			<CommonCommand>ПредупрежденияПриЗавершенииРаботы</CommonCommand>
 			<Constant>ГлавныйУзел</Constant>
 			<Constant>ДетализироватьОбновлениеИБВЖурналеРегистрации</Constant>
