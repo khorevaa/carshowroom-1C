@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
-	<Subsystem uuid="9622830c-c752-4bae-a77a-0c741f6787ff">
+	<Subsystem uuid="c8caa732-bf54-4227-a8ac-589106dec8bc">
 		<Properties>
-			<Name>СтандартныеПодсистемы</Name>
+			<Name>ПрефиксацияОбъектов</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Стандартные подсистемы</v8:content>
+					<v8:content>Префиксация объектов</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -16,14 +16,6 @@
 			<Picture/>
 			<Content/>
 		</Properties>
-		<ChildObjects>
-			<Subsystem>БазоваяПодсистема</Subsystem>
-			<Subsystem>ВариантыОтчетов</Subsystem>
-			<Subsystem>ОбновлениеИБ</Subsystem>
-			<Subsystem>Пользователи</Subsystem>
-			<Subsystem>ПрефиксацияОбъектов</Subsystem>
-			<Subsystem>РегламентныеЗадания</Subsystem>
-			<Subsystem>УправлениеДоступом</Subsystem>
-		</ChildObjects>
+		<ChildObjects/>
 	</Subsystem>
 </MetaDataObject>
