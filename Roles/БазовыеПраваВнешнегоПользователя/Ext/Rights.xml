@@ -286,6 +286,25 @@
 		</right>
 	</object>
 	<object>
+		<name>Configuration.УправлениеАвтоцентром</name>
+		<right>
+			<name>ThinClient</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>WebClient</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>SaveUserData</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Output</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Constant.ДетализироватьОбновлениеИБВЖурналеРегистрации</name>
 		<right>
 			<name>Read</name>
