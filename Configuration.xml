@@ -168,6 +168,9 @@
 			<CommonModule>БазоваяПодсистемаКлиентСервер</CommonModule>
 			<CommonModule>БазоваяПодсистемаСервер</CommonModule>
 			<CommonModule>БазоваяПодсистемаСерверПовтИсп</CommonModule>
+			<CommonModule>ВариантыОтчетовКлиентСервер</CommonModule>
+			<CommonModule>ВариантыОтчетовСеверПовтИсп</CommonModule>
+			<CommonModule>ВариантыОтчетовСервер</CommonModule>
 			<CommonModule>ИнтеграцияПодсистемКлиент</CommonModule>
 			<CommonModule>ИнтеграцияПодсистемСервер</CommonModule>
 			<CommonModule>ОбновлениеИБВызовСервера</CommonModule>
@@ -224,6 +227,7 @@
 			<CommonForm>ПредупрежденияПриЗавершенииРаботы</CommonForm>
 			<CommonForm>ПустойРабочийСтол</CommonForm>
 			<CommonForm>СменаПароля</CommonForm>
+			<Catalog>ВариантыОтчетов</Catalog>
 			<Catalog>ВерсииРасширений</Catalog>
 			<Catalog>ВнешниеПользователи</Catalog>
 			<Catalog>ГруппыВнешнихПользователей</Catalog>
@@ -231,7 +235,10 @@
 			<Catalog>ИдентификаторыОбъектовМетаданных</Catalog>
 			<Catalog>ИдентификаторыОбъектовРасширений</Catalog>
 			<Catalog>Пользователи</Catalog>
+			<Catalog>ПредопределенныеВариантыОтчетов</Catalog>
+			<Catalog>ПредопределенныеВариантыОтчетовРасширений</Catalog>
 			<Enum>ТипыДанныхКэшаПрограммныхИнтерфейсов</Enum>
+			<Enum>ТипыОтчетов</Enum>
 			<Report>ПрогрессОтложенногоОбновления</Report>
 			<Report>СведенияОПользователях</Report>
 			<DataProcessor>ЖурналРегистрации</DataProcessor>
@@ -244,6 +251,7 @@
 			<InformationRegister>КэшПрограммныхИнтерфейсов</InformationRegister>
 			<InformationRegister>ПараметрыРаботыВерсийРасширений</InformationRegister>
 			<InformationRegister>ПараметрыРаботыПрограммы</InformationRegister>
+			<InformationRegister>ПредопределенныеВариантыОтчетовВерсийРасширений</InformationRegister>
 			<InformationRegister>СведенияОПользователях</InformationRegister>
 			<InformationRegister>СеансыВерсийРасширений</InformationRegister>
 			<InformationRegister>СоставыГруппПользователей</InformationRegister>

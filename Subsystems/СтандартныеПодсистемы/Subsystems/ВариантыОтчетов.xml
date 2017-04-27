@@ -14,7 +14,16 @@
 			<IncludeInCommandInterface>false</IncludeInCommandInterface>
 			<Explanation/>
 			<Picture/>
-			<Content/>
+			<Content>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ВариантыОтчетовСервер</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ВариантыОтчетовКлиентСервер</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ПредопределенныеВариантыОтчетов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ПредопределенныеВариантыОтчетовРасширений</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Enum.ТипыОтчетов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ВариантыОтчетов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ПредопределенныеВариантыОтчетовВерсийРасширений</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ВариантыОтчетовСеверПовтИсп</xr:Item>
+			</Content>
 		</Properties>
 		<ChildObjects/>
 	</Subsystem>
