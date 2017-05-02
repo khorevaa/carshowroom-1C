@@ -241,6 +241,7 @@
 			<Enum>ТипыОтчетов</Enum>
 			<Report>ПрогрессОтложенногоОбновления</Report>
 			<Report>СведенияОПользователях</Report>
+			<Report>УниверсальныйОтчет</Report>
 			<DataProcessor>ЖурналРегистрации</DataProcessor>
 			<DataProcessor>НерекомендуемаяВерсияПлатформы</DataProcessor>
 			<DataProcessor>РезультатыОбновленияПрограммы</DataProcessor>
