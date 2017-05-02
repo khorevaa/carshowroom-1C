@@ -82,7 +82,6 @@
 				<xr:Item xsi:type="xr:MDObjectRef">EventSubscription.ПриОтправкеДанныхПодчиненному</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">EventSubscription.ПриПолученииДанныхОтГлавного</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">EventSubscription.ПриПолученииДанныхОтПодчиненного</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Report.УниверсальныйОтчет</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
