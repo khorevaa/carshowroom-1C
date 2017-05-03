@@ -25,6 +25,21 @@
 		</right>
 	</object>
 	<object>
+		<name>Catalog.ПредопределенныеВариантыОтчетов</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InputByString</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Constant.РаботаВАвтономномРежиме</name>
 		<right>
 			<name>Read</name>
@@ -120,6 +135,37 @@
 	</object>
 	<object>
 		<name>InformationRegister.ИдентификаторыОбъектовВерсийРасширений</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Catalog.ВариантыОтчетов</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+			<restrictionByCondition>
+				<condition>ВариантыОтчетов ГДЕ (ВариантыОтчетов.Пользовательский = ЛОЖЬ
+			ИЛИ ВариантыОтчетов.ТолькоДляАвтора = ЛОЖЬ
+			ИЛИ ВариантыОтчетов.Автор = &amp;АвторизованныйПользователь)</condition>
+			</restrictionByCondition>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InputByString</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>InformationRegister.ПредопределенныеВариантыОтчетовВерсийРасширений</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
@@ -319,6 +365,21 @@
 		<name>SessionParameter.ТекущийПользователь</name>
 		<right>
 			<name>Get</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Catalog.ПредопределенныеВариантыОтчетовРасширений</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InputByString</name>
 			<value>true</value>
 		</right>
 	</object>
