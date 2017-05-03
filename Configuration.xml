@@ -129,10 +129,14 @@
 			<Language>Русский</Language>
 			<Subsystem>Администрирование</Subsystem>
 			<Subsystem>СтандартныеПодсистемы</Subsystem>
+			<StyleItem>ГиперссылкаЦвет</StyleItem>
+			<StyleItem>МоиВариантыОтчетовЦвет</StyleItem>
 			<StyleItem>ПоясняющийОшибкуТекст</StyleItem>
 			<StyleItem>ПоясняющийТекст</StyleItem>
+			<StyleItem>СкрытыйВариантОтчетаЦвет</StyleItem>
 			<StyleItem>ТекстЗапрещеннойЯчейкиЦвет</StyleItem>
 			<StyleItem>ФонУправляющегоПоля</StyleItem>
+			<CommonPicture>ВариантыОтчетовДоступныеВсемПользователям</CommonPicture>
 			<CommonPicture>Вопрос</CommonPicture>
 			<CommonPicture>ВосклицательныйЗнакКрасный</CommonPicture>
 			<CommonPicture>ВосклицательныйЗнакСерый</CommonPicture>
@@ -141,6 +145,7 @@
 			<CommonPicture>ЗнакСтоп</CommonPicture>
 			<CommonPicture>Информация</CommonPicture>
 			<CommonPicture>Ошибка</CommonPicture>
+			<CommonPicture>ПиктограммыЭлементов</CommonPicture>
 			<CommonPicture>Подсистема</CommonPicture>
 			<CommonPicture>Предупреждение</CommonPicture>
 			<CommonPicture>РазделАдминистрирование</CommonPicture>
@@ -168,6 +173,7 @@
 			<CommonModule>БазоваяПодсистемаКлиентСервер</CommonModule>
 			<CommonModule>БазоваяПодсистемаСервер</CommonModule>
 			<CommonModule>БазоваяПодсистемаСерверПовтИсп</CommonModule>
+			<CommonModule>ВариантыОтчетовКлиент</CommonModule>
 			<CommonModule>ВариантыОтчетовКлиентСервер</CommonModule>
 			<CommonModule>ВариантыОтчетовСеверПовтИсп</CommonModule>
 			<CommonModule>ВариантыОтчетовСервер</CommonModule>
@@ -251,6 +257,7 @@
 			<InformationRegister>ДанныеОбработанныеВЦентральномУзлеРИБ</InformationRegister>
 			<InformationRegister>ИдентификаторыОбъектовВерсийРасширений</InformationRegister>
 			<InformationRegister>КэшПрограммныхИнтерфейсов</InformationRegister>
+			<InformationRegister>НастройкиВариантовОтчетов</InformationRegister>
 			<InformationRegister>ПараметрыРаботыВерсийРасширений</InformationRegister>
 			<InformationRegister>ПараметрыРаботыПрограммы</InformationRegister>
 			<InformationRegister>ПредопределенныеВариантыОтчетовВерсийРасширений</InformationRegister>

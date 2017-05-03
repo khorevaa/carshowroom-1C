@@ -25,6 +25,13 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ВариантыОтчетовСеверПовтИсп</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.УниверсальныйОтчет</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">SettingsStorage.ХранилищеВариантовОтчетов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">StyleItem.МоиВариантыОтчетовЦвет</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ВариантыОтчетовКлиент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.НастройкиВариантовОтчетов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.ВариантыОтчетовДоступныеВсемПользователям</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.ПиктограммыЭлементов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">StyleItem.ГиперссылкаЦвет</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">StyleItem.СкрытыйВариантОтчетаЦвет</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
