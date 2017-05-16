@@ -22,7 +22,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Enum.ТипыОтчетов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ВариантыОтчетов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ПредопределенныеВариантыОтчетовВерсийРасширений</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ВариантыОтчетовСеверПовтИсп</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ВариантыОтчетовСерверПовтИсп</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.УниверсальныйОтчет</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">SettingsStorage.ХранилищеВариантовОтчетов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">StyleItem.МоиВариантыОтчетовЦвет</xr:Item>

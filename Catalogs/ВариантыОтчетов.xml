@@ -302,10 +302,10 @@
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
 			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
-			<DefaultObjectForm/>
+			<DefaultObjectForm>Catalog.ВариантыОтчетов.Form.ФормаЭлемента</DefaultObjectForm>
 			<DefaultFolderForm/>
-			<DefaultListForm/>
-			<DefaultChoiceForm/>
+			<DefaultListForm>Catalog.ВариантыОтчетов.Form.ФормаСписка</DefaultListForm>
+			<DefaultChoiceForm>Catalog.ВариантыОтчетов.Form.ФормаСписка</DefaultChoiceForm>
 			<DefaultFolderChoiceForm/>
 			<AuxiliaryObjectForm/>
 			<AuxiliaryFolderForm/>
@@ -1296,6 +1296,11 @@
 					</Attribute>
 				</ChildObjects>
 			</TabularSection>
+			<Form>РазмещениеВРазделах</Form>
+			<Form>СбросНастроекРазмещения</Form>
+			<Form>СбросПользовательскихНастроек</Form>
+			<Form>ФормаСписка</Form>
+			<Form>ФормаЭлемента</Form>
 			<Command uuid="a4b05a41-e383-4b81-a0dd-4ff264388133">
 				<Properties>
 					<Name>Открыть</Name>

@@ -130,6 +130,7 @@
 			<Subsystem>Администрирование</Subsystem>
 			<Subsystem>СтандартныеПодсистемы</Subsystem>
 			<StyleItem>ГиперссылкаЦвет</StyleItem>
+			<StyleItem>ЗаблокированныйРеквизитЦвет</StyleItem>
 			<StyleItem>МоиВариантыОтчетовЦвет</StyleItem>
 			<StyleItem>ПоясняющийОшибкуТекст</StyleItem>
 			<StyleItem>ПоясняющийТекст</StyleItem>
@@ -176,8 +177,8 @@
 			<CommonModule>ВариантыОтчетовВызовСервера</CommonModule>
 			<CommonModule>ВариантыОтчетовКлиент</CommonModule>
 			<CommonModule>ВариантыОтчетовКлиентСервер</CommonModule>
-			<CommonModule>ВариантыОтчетовСеверПовтИсп</CommonModule>
 			<CommonModule>ВариантыОтчетовСервер</CommonModule>
+			<CommonModule>ВариантыОтчетовСерверПовтИсп</CommonModule>
 			<CommonModule>ИнтеграцияПодсистемКлиент</CommonModule>
 			<CommonModule>ИнтеграцияПодсистемСервер</CommonModule>
 			<CommonModule>ОбновлениеИБВызовСервера</CommonModule>
