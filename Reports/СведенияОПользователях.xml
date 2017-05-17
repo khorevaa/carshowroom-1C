@@ -26,7 +26,7 @@
 			<MainDataCompositionSchema>Report.СведенияОПользователях.Template.ОсновнаяСхемаКомпоновкиДанных</MainDataCompositionSchema>
 			<DefaultSettingsForm/>
 			<AuxiliarySettingsForm/>
-			<DefaultVariantForm/>
+			<DefaultVariantForm>CommonForm.ФормаВариантаОтчета</DefaultVariantForm>
 			<VariantsStorage>SettingsStorage.ХранилищеВариантовОтчетов</VariantsStorage>
 			<SettingsStorage/>
 			<IncludeHelpInContents>true</IncludeHelpInContents>

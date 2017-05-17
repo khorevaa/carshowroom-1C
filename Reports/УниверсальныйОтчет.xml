@@ -26,7 +26,7 @@
 			<MainDataCompositionSchema>Report.УниверсальныйОтчет.Template.ОсновнаяСхемаКомпоновкиДанных</MainDataCompositionSchema>
 			<DefaultSettingsForm/>
 			<AuxiliarySettingsForm/>
-			<DefaultVariantForm/>
+			<DefaultVariantForm>CommonForm.ФормаВариантаОтчета</DefaultVariantForm>
 			<VariantsStorage>SettingsStorage.ХранилищеВариантовОтчетов</VariantsStorage>
 			<SettingsStorage/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
