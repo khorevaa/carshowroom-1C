@@ -177,7 +177,6 @@
 						</v8:item>
 					</Title>
 					<Group>Horizontal</Group>
-					<BackColor>style:ФонУправляющегоПоля</BackColor>
 					<ExtendedTooltip name="ОбновлениеВФайловойБазеExtendedTooltip" id="134"/>
 					<ChildItems>
 						<PictureDecoration name="КартинкаИнформацияФайловаяБаза" id="32">
@@ -275,7 +274,6 @@
 					</Title>
 					<Group>Horizontal</Group>
 					<ShowTitle>false</ShowTitle>
-					<BackColor>style:ФонУправляющегоПоля</BackColor>
 					<ExtendedTooltip name="СтатусОбновленияДляПользователяExtendedTooltip" id="145"/>
 					<ChildItems>
 						<PictureDecoration name="КартинкаИнформацияПользователю" id="121">
@@ -341,7 +339,6 @@
 						</v8:item>
 					</Title>
 					<ShowTitle>false</ShowTitle>
-					<BackColor>style:ФонУправляющегоПоля</BackColor>
 					<ExtendedTooltip name="ОбновлениеВыполняетсяExtendedTooltip" id="150"/>
 					<ChildItems>
 						<UsualGroup name="ГруппаХодОбновления" id="5">

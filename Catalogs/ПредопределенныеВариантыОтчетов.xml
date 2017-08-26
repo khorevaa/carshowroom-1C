@@ -315,7 +315,7 @@
 			<BasedOn/>
 			<DataLockFields/>
 			<DataLockControlMode>Managed</DataLockControlMode>
-			<FullTextSearch>Use</FullTextSearch>
+			<FullTextSearch>DontUse</FullTextSearch>
 			<ObjectPresentation>
 				<v8:item>
 					<v8:lang>ru</v8:lang>

@@ -108,6 +108,11 @@
 			<Representation>NormalSeparation</Representation>
 			<ExtendedTooltip name="ГруппаСведенияРасширеннаяПодсказка" id="25"/>
 			<ChildItems>
+				<InputField name="ДатаРазрешенияВходаВПрограмму" id="38">
+					<DataPath>Запись.ДатаРазрешенияВходаВПрограмму</DataPath>
+					<ContextMenu name="ДатаРазрешенияВходаВПрограммуКонтекстноеМеню" id="39"/>
+					<ExtendedTooltip name="ДатаРазрешенияВходаВПрограммуРасширеннаяПодсказка" id="40"/>
+				</InputField>
 				<InputField name="ДатаПоследнейАктивности" id="4">
 					<DataPath>Запись.ДатаПоследнейАктивности</DataPath>
 					<ContextMenu name="ДатаПоследнейАктивностиКонтекстноеМеню" id="5"/>

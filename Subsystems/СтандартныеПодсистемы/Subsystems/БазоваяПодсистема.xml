@@ -85,6 +85,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">StyleItem.ЗаблокированныйРеквизитЦвет</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.ВставитьИзБуфераОбмена</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.ПоказателиВыделенныхЯчеек</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.ВопросОбУстановкеРасширенияРаботыСФайлами</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">SessionParameter.ОтмененныеДлительныеОперации</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

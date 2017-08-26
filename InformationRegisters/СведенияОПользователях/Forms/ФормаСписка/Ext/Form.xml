@@ -149,6 +149,19 @@
 					<ContextMenu name="ПросрочкаРаботыВПрограммеДоЗапрещенияВходаКонтекстноеМеню" id="39"/>
 					<ExtendedTooltip name="ПросрочкаРаботыВПрограммеДоЗапрещенияВходаРасширеннаяПодсказка" id="40"/>
 				</LabelField>
+				<LabelField name="ДатаРазрешенияВходаВПрограмму" id="47">
+					<DataPath>Список.ДатаРазрешенияВходаВПрограмму</DataPath>
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Дата
+разрешения входа
+в программу</v8:content>
+						</v8:item>
+					</Title>
+					<ContextMenu name="ДатаРазрешенияВходаВПрограммуКонтекстноеМеню" id="48"/>
+					<ExtendedTooltip name="ДатаРазрешенияВходаВПрограммуРасширеннаяПодсказка" id="49"/>
+				</LabelField>
 				<LabelField name="ДатаПоследнейАктивности" id="19">
 					<DataPath>Список.ДатаПоследнейАктивности</DataPath>
 					<DefaultItem>true</DefaultItem>

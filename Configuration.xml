@@ -163,6 +163,8 @@
 			<CommonPicture>ЭлектронноеПисьмо</CommonPicture>
 			<SessionParameter>АвторизованныйПользователь</SessionParameter>
 			<SessionParameter>ВерсияРасширений</SessionParameter>
+			<SessionParameter>ВыполняетсяОбновлениеИБ</SessionParameter>
+			<SessionParameter>ОтмененныеДлительныеОперации</SessionParameter>
 			<SessionParameter>ПараметрыКлиентаНаСервере</SessionParameter>
 			<SessionParameter>ПараметрыОбработчикаОбновления</SessionParameter>
 			<SessionParameter>ПодключенныеРасширения</SessionParameter>
@@ -234,6 +236,7 @@
 			<Constant>СведенияОбОбновленииИБ</Constant>
 			<CommonForm>ВводЗначенийСпискомСФлажками</CommonForm>
 			<CommonForm>Вопрос</CommonForm>
+			<CommonForm>ВопросОбУстановкеРасширенияРаботыСФайлами</CommonForm>
 			<CommonForm>ВосстановлениеСвязиСГлавнымУзлом</CommonForm>
 			<CommonForm>ВходВПрограммуЗапрещен</CommonForm>
 			<CommonForm>ВыборТиповПользователей</CommonForm>

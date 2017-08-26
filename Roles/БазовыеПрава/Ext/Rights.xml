@@ -532,6 +532,13 @@
 		</right>
 	</object>
 	<object>
+		<name>SessionParameter.ВыполняетсяОбновлениеИБ</name>
+		<right>
+			<name>Get</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>CommonForm.ВыборТиповПользователей</name>
 		<right>
 			<name>View</name>

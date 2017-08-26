@@ -37,6 +37,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.ОписаниеИзмененийСистемы</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonTemplate.ОписаниеИзмененийСистемы</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ДанныеОбработанныеВЦентральномУзлеРИБ</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">SessionParameter.ВыполняетсяОбновлениеИБ</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
