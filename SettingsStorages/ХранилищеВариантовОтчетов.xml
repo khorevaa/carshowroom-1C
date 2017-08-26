@@ -23,7 +23,9 @@
 		</Properties>
 		<ChildObjects>
 			<Form>ВыборВариантаОтчета</Form>
+			<Form>ПанельДругихОтчетов</Form>
 			<Form>СохранениеВариантаОтчета</Form>
+			<Form>УсловияОтборовОтчета</Form>
 		</ChildObjects>
 	</SettingsStorage>
 </MetaDataObject>

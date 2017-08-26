@@ -61,7 +61,7 @@
 			<FormDataSettingsStorage/>
 			<DynamicListsUserSettingsStorage/>
 			<Content/>
-			<DefaultReportForm/>
+			<DefaultReportForm>CommonForm.ФормаОтчета</DefaultReportForm>
 			<DefaultReportVariantForm>CommonForm.ФормаВариантаОтчета</DefaultReportVariantForm>
 			<DefaultReportSettingsForm/>
 			<DefaultDynamicListSettingsForm/>
@@ -130,6 +130,8 @@
 			<Subsystem>Администрирование</Subsystem>
 			<Subsystem>СтандартныеПодсистемы</Subsystem>
 			<StyleItem>ГиперссылкаЦвет</StyleItem>
+			<StyleItem>ГруппаВариантовОтчетовЦвет</StyleItem>
+			<StyleItem>ГруппаВариантовОтчетовЦвет82</StyleItem>
 			<StyleItem>ЗаблокированныйРеквизитЦвет</StyleItem>
 			<StyleItem>МоиВариантыОтчетовЦвет</StyleItem>
 			<StyleItem>ПоясняющийОшибкуТекст</StyleItem>
@@ -138,20 +140,27 @@
 			<StyleItem>ТекстЗапрещеннойЯчейкиЦвет</StyleItem>
 			<StyleItem>ФонУправляющегоПоля</StyleItem>
 			<CommonPicture>ВариантыОтчетовДоступныеВсемПользователям</CommonPicture>
+			<CommonPicture>ВидСравнения</CommonPicture>
 			<CommonPicture>Вопрос</CommonPicture>
 			<CommonPicture>ВосклицательныйЗнакКрасный</CommonPicture>
 			<CommonPicture>ВосклицательныйЗнакСерый</CommonPicture>
+			<CommonPicture>ВставитьИзБуфераОбмена</CommonPicture>
+			<CommonPicture>ВыбратьВариантОтчета</CommonPicture>
 			<CommonPicture>ДлительнаяОперация</CommonPicture>
 			<CommonPicture>ЗавершитьРаботу</CommonPicture>
 			<CommonPicture>ЗнакСтоп</CommonPicture>
 			<CommonPicture>Информация</CommonPicture>
+			<CommonPicture>Отчеты</CommonPicture>
 			<CommonPicture>Ошибка</CommonPicture>
 			<CommonPicture>ПиктограммыЭлементов</CommonPicture>
 			<CommonPicture>Подсистема</CommonPicture>
 			<CommonPicture>Предупреждение</CommonPicture>
 			<CommonPicture>РазделАдминистрирование</CommonPicture>
 			<CommonPicture>СостояниеПользователя08</CommonPicture>
+			<CommonPicture>СохранитьВариантОтчета</CommonPicture>
+			<CommonPicture>Сумма</CommonPicture>
 			<CommonPicture>Успешно</CommonPicture>
+			<CommonPicture>ЭлектронноеПисьмо</CommonPicture>
 			<SessionParameter>АвторизованныйПользователь</SessionParameter>
 			<SessionParameter>ВерсияРасширений</SessionParameter>
 			<SessionParameter>ПараметрыКлиентаНаСервере</SessionParameter>
@@ -223,6 +232,7 @@
 			<Constant>РаботаВЛокальномРежиме</Constant>
 			<Constant>СведенияОБлокируемыхОбъектах</Constant>
 			<Constant>СведенияОбОбновленииИБ</Constant>
+			<CommonForm>ВводЗначенийСпискомСФлажками</CommonForm>
 			<CommonForm>Вопрос</CommonForm>
 			<CommonForm>ВосстановлениеСвязиСГлавнымУзлом</CommonForm>
 			<CommonForm>ВходВПрограммуЗапрещен</CommonForm>
@@ -232,11 +242,13 @@
 			<CommonForm>НастройкиВходаПользователей</CommonForm>
 			<CommonForm>НовыйПароль</CommonForm>
 			<CommonForm>ОписаниеИзмененийСистемы</CommonForm>
+			<CommonForm>ПоказателиВыделенныхЯчеек</CommonForm>
 			<CommonForm>ПредупреждениеБезопасности</CommonForm>
 			<CommonForm>ПредупрежденияПриЗавершенииРаботы</CommonForm>
 			<CommonForm>ПустойРабочийСтол</CommonForm>
 			<CommonForm>СменаПароля</CommonForm>
 			<CommonForm>ФормаВариантаОтчета</CommonForm>
+			<CommonForm>ФормаОтчета</CommonForm>
 			<Catalog>ВариантыОтчетов</Catalog>
 			<Catalog>ВерсииРасширений</Catalog>
 			<Catalog>ВнешниеПользователи</Catalog>

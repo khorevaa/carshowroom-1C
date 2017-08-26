@@ -35,6 +35,15 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ВариантыОтчетовВызовСервера</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ПользовательскиеНастройкиОтчетов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.ФормаВариантаОтчета</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.ВыбратьВариантОтчета</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.СохранитьВариантОтчета</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.ЭлектронноеПисьмо</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.Отчеты</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.ВидСравнения</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">StyleItem.ГруппаВариантовОтчетовЦвет</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">StyleItem.ГруппаВариантовОтчетовЦвет82</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.ВводЗначенийСпискомСФлажками</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.ФормаОтчета</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

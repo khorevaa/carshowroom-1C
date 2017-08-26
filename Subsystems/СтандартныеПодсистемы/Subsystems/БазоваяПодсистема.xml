@@ -83,6 +83,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">EventSubscription.ПриПолученииДанныхОтГлавного</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">EventSubscription.ПриПолученииДанныхОтПодчиненного</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">StyleItem.ЗаблокированныйРеквизитЦвет</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.ВставитьИзБуфераОбмена</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.ПоказателиВыделенныхЯчеек</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
